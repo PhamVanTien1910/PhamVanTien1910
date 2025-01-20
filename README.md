@@ -13,6 +13,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/C%23-.NET-512BD4?logo=.net&logoColor=white" alt="C# .NET logo" title="C# .NET" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman logo" title="Postman" height="25" /></span>

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420">
+<style>
+.t{font-family:'Courier New',Courier,monospace;font-weight:700}
+.m{font-family:'Courier New',Courier,monospace}
+.blink{animation:bl 1s steps(1) infinite}
+@keyframes bl{50%{opacity:0}}
+</style>
+<rect width="1000" height="420" rx="18" fill="#0d0221"/>
+<text class="t" x="44" y="46" font-size="22" fill="#ffd319" letter-spacing="2">BOSS FIGHTS CLEARED</text>
+<text class="t blink" x="956" y="46" font-size="14" fill="#05d9e8" text-anchor="end">7/7 &#9733;</text>
+<g transform="translate(0,78)">
+<rect x="24" y="0" width="952" height="38" rx="6" fill="#1a0b33" stroke="#3b1d6e"/>
+<text class="t" x="44" y="17" font-size="15" fill="#fff">MULTI-TENANT ISOLATION</text>
+<text class="m" x="44" y="31" font-size="12" fill="#8b7bb8">every query tenant-scoped, zero leaks</text>
+<text class="t" x="560" y="24" font-size="11" fill="#ff2a6d">HP</text>
+<rect x="584" y="13" width="240" height="12" fill="#2d1150" stroke="#ff2a6d"/>
+<rect x="586" y="15" width="236" height="8" fill="#ff2a6d"><animate attributeName="width" values="236;196;157;118;79;39;0" calcMode="discrete" begin="0.60s" dur="1s" fill="freeze"/></rect>
+<text class="t" x="952" y="25" font-size="15" fill="#39ff14" text-anchor="end" opacity="0">CLEAR!<set attributeName="opacity" to="1" begin="1.60s" fill="freeze"/></text>
+</g><g transform="translate(0,124)">
+<rect x="24" y="0" width="952" height="38" rx="6" fill="#1a0b33" stroke="#3b1d6e"/>
+<text class="t" x="44" y="17" font-size="15" fill="#fff">OAUTH2 / OIDC + GATEWAY</text>
+<text class="m" x="44" y="31" font-size="12" fill="#8b7bb8">Keycloak SSO behind APISIX</text>
+<text class="t" x="560" y="24" font-size="11" fill="#ff2a6d">HP</text>
+<rect x="584" y="13" width="240" height="12" fill="#2d1150" stroke="#ff2a6d"/>
+<rect x="586" y="15" width="236" height="8" fill="#ff2a6d"><animate attributeName="width" values="236;196;157;118;79;39;0" calcMode="discrete" begin="1.05s" dur="1s" fill="freeze"/></rect>
+<text class="t" x="952" y="25" font-size="15" fill="#39ff14" text-anchor="end" opacity="0">CLEAR!<set attributeName="opacity" to="1" begin="2.05s" fill="freeze"/></text>
+</g><g transform="translate(0,170)">
+<rect x="24" y="0" width="952" height="38" rx="6" fill="#1a0b33" stroke="#3b1d6e"/>
+<text class="t" x="44" y="17" font-size="15" fill="#fff">RBAC PERMISSION MATRIX</text>
+<text class="m" x="44" y="31" font-size="12" fill="#8b7bb8">union of roles, default-deny</text>
+<text class="t" x="560" y="24" font-size="11" fill="#ff2a6d">HP</text>
+<rect x="584" y="13" width="240" height="12" fill="#2d1150" stroke="#ff2a6d"/>
+<rect x="586" y="15" width="236" height="8" fill="#ff2a6d"><animate attributeName="width" values="236;196;157;118;79;39;0" calcMode="discrete" begin="1.50s" dur="1s" fill="freeze"/></rect>
+<text class="t" x="952" y="25" font-size="15" fill="#39ff14" text-anchor="end" opacity="0">CLEAR!<set attributeName="opacity" to="1" begin="2.50s" fill="freeze"/></text>
+</g><g transform="translate(0,216)">
+<rect x="24" y="0" width="952" height="38" rx="6" fill="#1a0b33" stroke="#3b1d6e"/>
+<text class="t" x="44" y="17" font-size="15" fill="#fff">HEXAGONAL + DDD</text>
+<text class="m" x="44" y="31" font-size="12" fill="#8b7bb8">domain with zero framework deps</text>
+<text class="t" x="560" y="24" font-size="11" fill="#ff2a6d">HP</text>
+<rect x="584" y="13" width="240" height="12" fill="#2d1150" stroke="#ff2a6d"/>
+<rect x="586" y="15" width="236" height="8" fill="#ff2a6d"><animate attributeName="width" values="236;196;157;118;79;39;0" calcMode="discrete" begin="1.95s" dur="1s" fill="freeze"/></rect>
+<text class="t" x="952" y="25" font-size="15" fill="#39ff14" text-anchor="end" opacity="0">CLEAR!<set attributeName="opacity" to="1" begin="2.95s" fill="freeze"/></text>
+</g><g transform="translate(0,262)">
+<rect x="24" y="0" width="952" height="38" rx="6" fill="#1a0b33" stroke="#3b1d6e"/>
+<text class="t" x="44" y="17" font-size="15" fill="#fff">EVENT-DRIVEN / MQTT</text>
+<text class="m" x="44" y="31" font-size="12" fill="#8b7bb8">async, idempotent consumers</text>
+<text class="t" x="560" y="24" font-size="11" fill="#ff2a6d">HP</text>
+<rect x="584" y="13" width="240" height="12" fill="#2d1150" stroke="#ff2a6d"/>
+<rect x="586" y="15" width="236" height="8" fill="#ff2a6d"><animate attributeName="width" values="236;196;157;118;79;39;0" calcMode="discrete" begin="2.40s" dur="1s" fill="freeze"/></rect>
+<text class="t" x="952" y="25" font-size="15" fill="#39ff14" text-anchor="end" opacity="0">CLEAR!<set attributeName="opacity" to="1" begin="3.40s" fill="freeze"/></text>
+</g><g transform="translate(0,308)">
+<rect x="24" y="0" width="952" height="38" rx="6" fill="#1a0b33" stroke="#3b1d6e"/>
+<text class="t" x="44" y="17" font-size="15" fill="#fff">NETWORK LAYER</text>
+<text class="m" x="44" y="31" font-size="12" fill="#8b7bb8">TLS, L4/L7 load balancing, HTTP/2</text>
+<text class="t" x="560" y="24" font-size="11" fill="#ff2a6d">HP</text>
+<rect x="584" y="13" width="240" height="12" fill="#2d1150" stroke="#ff2a6d"/>
+<rect x="586" y="15" width="236" height="8" fill="#ff2a6d"><animate attributeName="width" values="236;196;157;118;79;39;0" calcMode="discrete" begin="2.85s" dur="1s" fill="freeze"/></rect>
+<text class="t" x="952" y="25" font-size="15" fill="#39ff14" text-anchor="end" opacity="0">CLEAR!<set attributeName="opacity" to="1" begin="3.85s" fill="freeze"/></text>
+</g><g transform="translate(0,354)">
+<rect x="24" y="0" width="952" height="38" rx="6" fill="#1a0b33" stroke="#3b1d6e"/>
+<text class="t" x="44" y="17" font-size="15" fill="#fff">SQL PERFORMANCE</text>
+<text class="m" x="44" y="31" font-size="12" fill="#8b7bb8">query plans, indexes, isolation levels</text>
+<text class="t" x="560" y="24" font-size="11" fill="#ff2a6d">HP</text>
+<rect x="584" y="13" width="240" height="12" fill="#2d1150" stroke="#ff2a6d"/>
+<rect x="586" y="15" width="236" height="8" fill="#ff2a6d"><animate attributeName="width" values="236;196;157;118;79;39;0" calcMode="discrete" begin="3.30s" dur="1s" fill="freeze"/></rect>
+<text class="t" x="952" y="25" font-size="15" fill="#39ff14" text-anchor="end" opacity="0">CLEAR!<set attributeName="opacity" to="1" begin="4.30s" fill="freeze"/></text>
+</g>
+</svg>
